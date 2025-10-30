@@ -1,7 +1,9 @@
 This project is a terminal-based Slot Machine Game built in Python. It’s designed to help beginners learn Python by creating an interactive and functional game.
 
 **In the game:**
+
 1.The player deposits money.
+
 2.Chooses how many lines to bet on (1–3).
 3.Sets a bet amount per line.
 4.The game then “spins” virtual reels (symbols generated randomly).
